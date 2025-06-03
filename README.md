@@ -3,7 +3,7 @@
 1. Clone the repository and install dependencies
 
 ```bash
-git clone https://github.com/Aur316/next-builder-kit.git
+git clone https://github.com/Aur316/next-dev-kit.git
 ```
 
 ```bash
